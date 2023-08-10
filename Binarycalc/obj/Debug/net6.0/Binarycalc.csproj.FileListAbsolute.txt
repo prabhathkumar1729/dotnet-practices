@@ -1,0 +1,15 @@
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\bin\Debug\net6.0\Binarycalc.exe
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\bin\Debug\net6.0\Binarycalc.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\bin\Debug\net6.0\Binarycalc.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\bin\Debug\net6.0\Binarycalc.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\bin\Debug\net6.0\Binarycalc.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\refint\Binarycalc.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\Binarycalc.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\Binarycalc\obj\Debug\net6.0\ref\Binarycalc.dll

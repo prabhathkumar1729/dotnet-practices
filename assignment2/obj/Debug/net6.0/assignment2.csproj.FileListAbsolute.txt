@@ -1,0 +1,15 @@
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\bin\Debug\net6.0\assignment2.exe
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\bin\Debug\net6.0\assignment2.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\bin\Debug\net6.0\assignment2.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\bin\Debug\net6.0\assignment2.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\bin\Debug\net6.0\assignment2.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\refint\assignment2.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\assignment2.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\assignment2\obj\Debug\net6.0\ref\assignment2.dll

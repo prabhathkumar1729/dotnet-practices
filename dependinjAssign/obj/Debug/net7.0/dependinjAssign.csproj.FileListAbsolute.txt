@@ -1,0 +1,15 @@
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\bin\Debug\net7.0\dependinjAssign.exe
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\bin\Debug\net7.0\dependinjAssign.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\bin\Debug\net7.0\dependinjAssign.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\bin\Debug\net7.0\dependinjAssign.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\bin\Debug\net7.0\dependinjAssign.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\refint\dependinjAssign.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\dependinjAssign.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dependinjAssign\obj\Debug\net7.0\ref\dependinjAssign.dll

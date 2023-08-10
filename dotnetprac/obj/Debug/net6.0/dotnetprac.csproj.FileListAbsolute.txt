@@ -1,0 +1,15 @@
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\bin\Debug\net6.0\dotnetprac.exe
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\bin\Debug\net6.0\dotnetprac.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\bin\Debug\net6.0\dotnetprac.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\bin\Debug\net6.0\dotnetprac.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\bin\Debug\net6.0\dotnetprac.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\refint\dotnetprac.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\dotnetprac.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\dotnetprac\obj\Debug\net6.0\ref\dotnetprac.dll

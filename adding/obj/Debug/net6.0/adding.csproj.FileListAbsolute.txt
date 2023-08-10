@@ -1,0 +1,15 @@
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\bin\Debug\net6.0\adding.exe
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\bin\Debug\net6.0\adding.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\bin\Debug\net6.0\adding.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\bin\Debug\net6.0\adding.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\bin\Debug\net6.0\adding.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\refint\adding.dll
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.pdb
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\adding.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\vs_code_files\dotnet\adding\obj\Debug\net6.0\ref\adding.dll
